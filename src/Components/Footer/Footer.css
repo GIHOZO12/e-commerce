@@ -1,0 +1,10 @@
+.footer-left{
+    margin: auto;
+    /* background: red; */
+    width: 300px;
+    height: 100px;
+}
+.footer-left img{
+    gap: 20px;
+    padding: 20px;
+}

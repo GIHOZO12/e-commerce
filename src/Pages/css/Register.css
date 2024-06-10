@@ -1,0 +1,33 @@
+.login-container1{
+    margin: auto;
+    background:#e3e3e3;
+    width: 400px;
+    height: 600px;
+    padding: 10px;
+}
+.login-inputbox1 form {
+display: flex;
+flex-direction: column;
+gap: 12px;
+}
+.login-inputbox1 input{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    
+
+}
+.login-inputbox1 button{
+    border: none;
+    padding: 20px;
+    background: #d58d8d;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+}
+.login-inputbox1 button:hover{
+    background: #b28181;
+}
+.image-continue{
+  margin: 20px 70px;
+}

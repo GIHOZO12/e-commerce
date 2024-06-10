@@ -1,0 +1,14 @@
+.items{
+    width: 350px;
+}
+.items p{
+    margin: 6px 0px;
+}
+.item-prices{
+    display: flex;
+    gap: 10px;
+}
+.items:hover{
+    transition: 0.5s;
+    transform: scale(1.05);
+}

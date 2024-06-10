@@ -1,0 +1,11 @@
+.allnewProduct{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+}
+.latest{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
